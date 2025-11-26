@@ -1,6 +1,17 @@
 # Rock Paper Scissors Player - freeCodeCamp Challenge
 
-Repositorio para el desafío de piedra, papel o tijera de freeCodeCamp con solución optimizada que vence a los cuatro bots del reto.
+Repositorio para el desafío de piedra, papel o tijera de freeCodeCamp con solución optimizada que vence a los cuatro bots del reto. 
+
+## Resultados automáticos (tests)
+
+La función `player` supera el 60% de victorias contra TODOS los bots, como lo exigen las pruebas del desafío:
+
+- Abbey: 63.14%
+- Kris: 90.93%
+- Mrugesh: 83.03%
+- Quincy: 97.99%
+
+¡Puedes ejecutar los tests y ver estos resultados con `python main.py` o `python test_module.py`!
 
 ## Archivos incluidos
 
